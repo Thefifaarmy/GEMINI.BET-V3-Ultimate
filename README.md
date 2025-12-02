@@ -1,4 +1,3 @@
-# GEMINI.BET-V3-Ultimate
 <!DOCTYPE html>
 <html lang="en">
 <head>
